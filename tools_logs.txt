@@ -1,0 +1,6 @@
+ImageJ processing:
+binarization: simple Otsu segmentation
+skeletonization: using Skeletonize plugin
+comment: skeletonization does not work well for this liquid foam. 
+
+
